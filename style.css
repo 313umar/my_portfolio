@@ -8,7 +8,11 @@ body {
 .top-one {
     /* background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back-1.png');
      */
+<<<<<<< HEAD
     background-image: url('images/back-x.png');
+=======
+    background-image: url('my_portfolio/images/back-x.png');
+>>>>>>> 16bfc547de895b08404fdfd8b7e706dcb7cbd7e5
     /* background-position-y: unset; */
     background-position: bottom;
     background-size: cover;
@@ -66,7 +70,11 @@ a {
 }
 
 .top-two {
+<<<<<<< HEAD
     background-image: url('images/back_2.png');
+=======
+    background-image: url('my_portfolio/images/back_2.png');
+>>>>>>> 16bfc547de895b08404fdfd8b7e706dcb7cbd7e5
 }
 
 .sec_two {
@@ -87,7 +95,11 @@ a {
 
 .final {
 
+<<<<<<< HEAD
     background-image: url('images/back-3.png');
+=======
+    background-image: url('my_portfolio/images/back-3.png');
+>>>>>>> 16bfc547de895b08404fdfd8b7e706dcb7cbd7e5
     background-size: cover;
     background-position-y: center;
     background-repeat: no-repeat;
