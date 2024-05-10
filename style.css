@@ -6,7 +6,11 @@ body {
 }
 
 .top-one {
-    background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back-1.png');
+    /* background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back-1.png');
+     */
+    background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back-x.png');
+    /* background-position-y: unset; */
+    background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
