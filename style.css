@@ -29,17 +29,16 @@ section {
 
 .half-width {
     width: 50%;
-    /* margin: auto; */
-    /* margin-left: 30px; */
     margin: auto;
-    padding-left: 50px;
+    margin-left: 30px;
+    padding-left: 30px;
+
 }
 
 .other-half-img {
     width: 50%;
     justify-content: flex-end;
-    /* margin: auto; */
-    /* justify-content: flex-end; */
+    margin: auto;
     padding-top: 60px;
 }
 
@@ -51,4 +50,78 @@ a {
     background-image: linear-gradient(tomato, orange);
     color: whitesmoke;
     font-weight: 700;
+}
+
+.sec_one {
+    width: 50%;
+    justify-content: center;
+    margin: auto;
+    padding-top: 140px;
+    height: auto;
+
+}
+
+.top-two {
+    background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back_2.png');
+}
+
+.sec_two {
+    width: 50%;
+    margin: auto;
+    padding: 50px;
+}
+
+.seclass {
+    padding-right: 80px;
+    padding-bottom: 30px;
+}
+
+.top-two {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.final {
+
+    background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back-3.png');
+    background-size: cover;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    justify-content: center;
+    height: 500px;
+    margin-left: 38px;
+}
+
+.fone {
+    width: 40%;
+
+    padding-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px 20px;
+    height: 250px;
+    /* border-left-style: solid; */
+    border-left-color: rgb(226, 106, 14);
+    border-left: 3px solid salmon;
+}
+
+
+.ftwo {
+    width: 40%;
+
+    padding-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 10px 20px;
+    height: 250px;
+    border-left: 3px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+
+}
+
+.h31 {
+    color: goldenrod;
 }
