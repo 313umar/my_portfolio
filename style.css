@@ -8,7 +8,7 @@ body {
 .top-one {
     /* background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back-1.png');
      */
-    background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back-x.png');
+    background-image: url('images/back-x.png');
     /* background-position-y: unset; */
     background-position: bottom;
     background-size: cover;
@@ -66,7 +66,7 @@ a {
 }
 
 .top-two {
-    background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back_2.png');
+    background-image: url('images/back_2.png');
 }
 
 .sec_two {
@@ -87,7 +87,7 @@ a {
 
 .final {
 
-    background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back-3.png');
+    background-image: url('images/back-3.png');
     background-size: cover;
     background-position-y: center;
     background-repeat: no-repeat;
