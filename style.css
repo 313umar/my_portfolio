@@ -1,0 +1,54 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.top-one {
+    background-image: url('D:/Programming Hero/Milestone-1/my_portfolio/images/back-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+
+
+h1 {
+    font-size: 56px;
+}
+
+.abc {
+    color: orange;
+}
+
+section {
+    display: flex;
+    /* margin: 20px 10px; */
+}
+
+.half-width {
+    width: 50%;
+    /* margin: auto; */
+    /* margin-left: 30px; */
+    margin: auto;
+    padding-left: 50px;
+}
+
+.other-half-img {
+    width: 50%;
+    justify-content: flex-end;
+    /* margin: auto; */
+    /* justify-content: flex-end; */
+    padding-top: 60px;
+}
+
+
+a {
+    text-decoration: none;
+    padding: 10px 40px;
+    border: solid;
+    background-image: linear-gradient(tomato, orange);
+    color: whitesmoke;
+    font-weight: 700;
+}
